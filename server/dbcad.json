@@ -1,0 +1,14 @@
+{
+    "cadastros":[
+        {
+            "id": 1,
+            "caracteristica":"material",
+            "tipo": 1
+        },
+        {
+            "id": 2,
+            "caracteristica":"objeto",
+            "tipo": 2
+        }
+    ]
+}
